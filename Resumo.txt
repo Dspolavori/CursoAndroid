@@ -1,0 +1,27 @@
+2.3.3 api 10
+(3 ou 4) api 16 95.7% 
+5.0 api 21  40%
+6.0    4.7
+art
+
+Compilador
+Dalvik vs  Atr
+Art é melhor
+
+
+baixar plugin -> android Drawable importer
+(Setings)
+
+
+LAYOUTS
+->viewgroup
+  LinearLayout
+	horizontal
+	vertical
+
+->RelativeView
+
+->Frame
+
+->TableLayout
+	Row

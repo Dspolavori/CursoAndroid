@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula 02</string>
+
+    <!-- Login -->
+    <string name="loginLbl">LOGIN</string>
+    <string name="loginInp">Usuário</string>
+    <string name="loginBtn">Entrar</string>
+
+    <!--  -->
+    <string name="lorem">gt7ftyftiftfbrhnitngi</string>
+
+</resources>

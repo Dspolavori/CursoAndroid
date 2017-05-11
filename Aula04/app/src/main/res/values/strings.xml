@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula04</string>
+
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="title">Título</string>
+    <string name="description">Texto</string>
+
+    <string-array name="mArray">
+        <item>item 1</item>
+        <item>item 2</item>
+    </string-array>
+
+</resources>

@@ -25,3 +25,19 @@ LAYOUTS
 
 ->TableLayout
 	Row
+
+
+https://developer.android.com/index.html
+
+https://developer.android.com/about/start.html
+
+https://www.bignerdranch.com/
+
+
+https://github.com/afollestad/material-dialogs
+compile 'com.afollestad.material-dialogs:core:0.9.4.4'
+compile 'com.afollestad.material-dialogs:commons:0.9.4.4'
+
+https://github.com/wasabeef/awesome-android-ui
+
+

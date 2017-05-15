@@ -33,11 +33,30 @@ https://developer.android.com/about/start.html
 
 https://www.bignerdranch.com/
 
-
+------------------------
+gradle para dialogs
 https://github.com/afollestad/material-dialogs
 compile 'com.afollestad.material-dialogs:core:0.9.4.4'
 compile 'com.afollestad.material-dialogs:commons:0.9.4.4'
+------------------------
 
 https://github.com/wasabeef/awesome-android-ui
 
+https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView
 
+-------------------------
+Chamadas http
+http://square.github.io/okhttp/
+http://www.devmedia.com.br/trabalhando-com-asynctask-no-android/33481
+
+gradle compile 'com.squareup.okhttp3:okhttp:3.8.0'
+
+-thread async
+-dialog loading
+-interface
+-http request
+-------------------------
+
+base de dados (criptografados)
+servidor parse
+https://firebase.google.com/?hl=pt-br

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "270653683837",
+    "firebase_url": "https://aula07-b63bd.firebaseio.com",
+    "project_id": "aula07-b63bd",
+    "storage_bucket": "aula07-b63bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270653683837:android:3857b0f0ba699a75",
+        "android_client_info": {
+          "package_name": "com.example.sala01.aula07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270653683837-18bljplb12feg7bqm3acqps4nohp3mbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_EO_xTYgpMVkekoiF86hOH7MpVJ_IVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

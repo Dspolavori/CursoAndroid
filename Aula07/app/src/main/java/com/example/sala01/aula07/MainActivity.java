@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         reference = database.getReference("results/");
 
-        this.setUser();
+        setUser();
 
         array.add(new Item("teste 1"));
 
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 for(int i = 0; i < dataSnapshot.getChildrenCount(); i++ ){
 
                     Item item = new Item();
-                    item.setName((String)(dataSnapshot.child(i+"/").child("name/").child("first/").getValue()));
+                    item.setName((String)(dataSnapshot.child(String.valueOf(i)+"/").child("name/").child("first").getValue()));
                     array.add(item);
 
                 }

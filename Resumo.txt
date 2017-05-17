@@ -57,6 +57,13 @@ gradle compile 'com.squareup.okhttp3:okhttp:3.8.0'
 -http request
 -------------------------
 
+aula07
+https://examples.javacodegeeks.com/android/core/activity/android-start-service-boot-example/
+
 base de dados (criptografados)
 servidor parse
 https://firebase.google.com/?hl=pt-br
+
+
+adicionando mapas
+https://developer.android.com/training/maps/index.html

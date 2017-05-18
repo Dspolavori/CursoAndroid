@@ -12,10 +12,10 @@ public class BootReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        if (intent.getAction().equalsIgnoreCase(Intent.ACTION_BOOT_COMPLETED)) {
+       /* if (intent.getAction().equalsIgnoreCase(Intent.ACTION_BOOT_COMPLETED)) { TODO descomentar para ativar o servico
             context.startService(new Intent(context, ServiceAfterBoot.class));
 
-        }
+        }*/
     }
 
 }

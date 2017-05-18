@@ -67,3 +67,7 @@ https://firebase.google.com/?hl=pt-br
 
 adicionando mapas
 https://developer.android.com/training/maps/index.html
+
+--------------------------------
+longitude e latitude
+http://www.vogella.com/tutorials/AndroidLocationAPI/article.html

@@ -86,3 +86,7 @@ http://www.vogella.com/tutorials/AndroidLocationAPI/article.html
 -----------------------
 camera
 https://inducesmile.com/
+
+-----------------------
+icons
+https://icons8.com/
